@@ -11,6 +11,12 @@ JaBUTi4Run is a project for just to manipulate the JaBUTi .jar for run it and so
 # Requirements
 
 - Java 1.6 or above to run
+- BCEL 5.2 (Byte Code Enginnering Library)
+- CAPI 1.0 (Curve API)
+- Mucode (Java API for mobile agent systems)
+- JUnit <=4.4 (Framework for writing and running automated tests)
+- GraphViz <= 2.20.x
+
 
 
 ## Requirements for system under testing (SUT)
