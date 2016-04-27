@@ -91,7 +91,7 @@ java -cp <file.jar> <class to execute> [execution parameters]
 5. Check the coverage in Summary choosing the scope of coverage
 6. Click in Reports :arrow_forward: Custom Reports and give a name for the report file
 
-> For more informations access [here](https://github.com/jacksonpradolima/JaBUTi4Run/blob/master/manual.pdf) and dowload the manual
+> For more informations access [here](https://github.com/jacksonpradolima/JaBUTi4Run/raw/master/manual.pdf) and dowload the manual
 
 
 
